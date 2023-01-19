@@ -1,7 +1,3 @@
-# exercise-03
-
-Exercise 03
-
 # Exercise 03 - HTML Tables
 
 Welcome to exercise 03 - all about marking up tables.
